@@ -1,10 +1,5 @@
 
 /* Your CSS Code here. */
-body{
-	display:flex;
-	justify-content:center;
-	align-items:center;
-}
 table{
 	margin:2rem 0em;
 	width:100%;
@@ -16,6 +11,7 @@ th{
 	border: 2px solid black;
 }
 td{
+	text-align:center;
 	border: 2px solid black;
 }
 td .html{
