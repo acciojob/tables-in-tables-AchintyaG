@@ -5,17 +5,12 @@ table{
 	width:100%;
 	padding:2px;
 	border: 2px solid black;
+	text-align:center;
 	
 }
 th{
 	border: 2px solid black;
 }
-td{
-	text-align:center;
+td{	
 	border: 2px solid black;
-}
-.html{
-	text-align:center;
-	background-color:black;
-	color:white;
 }
