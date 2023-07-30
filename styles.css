@@ -17,3 +17,8 @@ th{
 td{
 	border: 2px solid black;
 }
+td .html{
+	text-align:center;
+	background-color:black;
+	color:white;
+}
